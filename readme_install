@@ -75,7 +75,7 @@ Promise {
   [Symbol(trigger_async_id_symbol)]: 13,
   [Symbol(destroyed)]: { destroyed: false }
 }
-> await cd3.get()
+> await cd.get()
 'aaabbbb'
 >const bal2 = await ethers.provider.getBalance(signers[0])
 >bal
