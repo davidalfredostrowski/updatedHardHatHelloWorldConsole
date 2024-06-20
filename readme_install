@@ -11,7 +11,7 @@
    
 mkdir test
 cd test
-npx hardhat
+npx hardhat init
 cd contract
 vi Hello.sol
 
